@@ -1,0 +1,32 @@
+---
+layout: default
+---
+
+<div class="post-list">
+  {%- if site.posts.size > 0 -%}
+    <h1>All Posts</h1>
+    <ul style="list-style: none; padding: 0;">
+      {%- for post in site.posts -%}
+        <li style="margin-bottom: 30px;">
+          <h2 style="margin: 0; padding: 0;">
+            <a href="{{ post.url | relative_url }}" style="text-decoration: none; color: #1d1d1d;">
+              {{ post.title | escape }}
+            </a>
+          </h2>
+          <p style="margin: 5px 0 0 0; color: #666; font-size: 14px;">
+            <time datetime="{{ post.date | date_to_xmlschema }}">
+              {{ post.date | date: "%B %d, %Y" }}
+            </time>
+          </p>
+          {%- if post.excerpt -%}
+            <p style="margin: 10px 0 0 0; color: #555;">
+              {{ post.excerpt | strip_html | truncatewords: 30 }}
+            </p>
+          {%- endif -%}
+        </li>
+      {%- endfor -%}
+    </ul>
+  {%- else -%}
+    <p>No posts yet. Check back soon!</p>
+  {%- endif -%}
+</div>

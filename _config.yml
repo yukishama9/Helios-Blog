@@ -4,6 +4,17 @@ author: Helios Shen
 theme: minima
 github_username: yukishama9
 
+header_pages:
+  - index.md
+  - blog.md
+  - about.md
+
+minima:
+  social_links:
+    - { platform: twitter,   user_url: "" }
+    - { platform: mastodon,  user_url: "" }
+    - { platform: youtube,   user_url: "" }
+
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
