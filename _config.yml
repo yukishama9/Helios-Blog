@@ -1,1 +1,9 @@
-theme: jekyll-theme-slate
+title: Helios Space
+description: "Helios' Tech Blog"
+author: Helios Shen
+theme: minima
+github_username: yukishama9
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
