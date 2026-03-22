@@ -28,6 +28,22 @@ I'm someone who loves technology and writing—a native internet dweller. I'm a 
 
 ---
 
+## Support My Work
+
+<div style="text-align: center; margin: 30px 0;">
+  <script async
+    src="https://js.stripe.com/v3/buy-button.js">
+  </script>
+
+  <stripe-buy-button
+    buy-button-id="buy_btn_1TDmsEEjoC04JVWoPYRBw0bx"
+    publishable-key="pk_live_51KHUljEjoC04JVWo1YoCVJkICFeWkQwMWvyk3o7nyXuBkcUFTG9adfK9w7y5UTDNpgzQHruKthQFXdd8lp0I2Ue900vJfBHFsK"
+  >
+  </stripe-buy-button>
+</div>
+
+---
+
 <div style="text-align: center; margin-top: 50px;">
   <p><a href="/blog/" style="font-size: 16px; font-weight: bold;">→ Read My Blog</a></p>
 </div>
