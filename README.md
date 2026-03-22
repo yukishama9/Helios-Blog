@@ -6,6 +6,10 @@ Welcome to the source repository for [Helios Space](https://yukishama9.github.io
 
 This is a Jekyll-powered blog hosted on GitHub Pages. Posts are written in Markdown and automatically published when pushed to this repository.
 
+### ☕ Support this project
+[![Support my work](https://img.shields.io/badge/Support-Buy%20me%20a%20coffee-orange?style=for-the-badge)](https://buy.stripe.com/9B64gz8L7cX68dTfII6oo01)
+
+
 ### 🚀 How to Write a New Post
 
 Writing a new blog post is simple:
