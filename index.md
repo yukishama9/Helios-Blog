@@ -21,7 +21,7 @@ I'm someone who loves technology and writing—a native internet dweller. I'm a 
     <a href="https://x.com/@helioswriter" target="_blank" rel="noopener">𝕏/Twitter</a> • 
     <a href="https://threads.net/@helioswriter" target="_blank" rel="noopener">Threads</a> • 
     <a href="https://bsky.app/profile/helioswriter" target="_blank" rel="noopener">Bluesky</a> • 
-    <a href="https://mastodon.social/@helioswriter" target="_blank" rel="noopener">Mastodon</a> • 
+    <a href="https://mastodon.social/@heliopolisblog" target="_blank" rel="noopener">Mastodon</a> • 
   </p>
 </div>
 
