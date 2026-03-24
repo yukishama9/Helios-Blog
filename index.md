@@ -18,11 +18,10 @@ I'm someone who loves technology and writing—a native internet dweller. I'm a 
 
 <div style="text-align: center; margin: 30px 0;">
   <p style="font-size: 14px; color: #666;">
-    <a href="https://twitter.com/USERNAME" target="_blank" rel="noopener">𝕏/Twitter</a> • 
-    <a href="https://threads.net/@USERNAME" target="_blank" rel="noopener">Threads</a> • 
-    <a href="https://bsky.app/profile/USERNAME" target="_blank" rel="noopener">Bluesky</a> • 
-    <a href="https://mastodon.social/@USERNAME" target="_blank" rel="noopener">Mastodon</a> • 
-    <a href="https://youtube.com/@USERNAME" target="_blank" rel="noopener">YouTube</a>
+    <a href="https://x.com/@helioswriter" target="_blank" rel="noopener">𝕏/Twitter</a> • 
+    <a href="https://threads.net/@helioswriter" target="_blank" rel="noopener">Threads</a> • 
+    <a href="https://bsky.app/profile/helioswriter" target="_blank" rel="noopener">Bluesky</a> • 
+    <a href="https://mastodon.social/@helioswriter" target="_blank" rel="noopener">Mastodon</a> • 
   </p>
 </div>
 
@@ -61,5 +60,5 @@ I'm someone who loves technology and writing—a native internet dweller. I'm a 
 ---
 
 <div style="text-align: center; margin-top: 50px;">
-  <p><a href="/blog/" style="font-size: 16px; font-weight: bold;">→ Read My Blog</a></p>
+  <p><a href="https://heliopolis.blog" style="font-size: 16px; font-weight: bold;">→ Read My Blog</a></p>
 </div>
